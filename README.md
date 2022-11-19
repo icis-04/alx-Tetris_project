@@ -32,6 +32,6 @@ A Python IDE and Pygame module installed on the system( can be done with `pip in
  - `def main_menu`: shows the screen and prompts one to press a button before starting the game. This function calls the `main` function.
 > That is all on functions, the other lines of code are quite easy to understand.
 
-## Sneak pic of the game beforr you check it out :zany_face: :
+## Sneak pic of the game before you check it out yourself :zany_face: :
 ![Game image](/game_pic.png)
 
